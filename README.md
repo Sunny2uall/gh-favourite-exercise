@@ -1,1 +1,1 @@
-# All Favourites
+# Favourites
